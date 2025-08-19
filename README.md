@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felipe Henrique  
 
-<!--
-**FeliPinass/FeliPinass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Apaixonado por **programação, tecnologia e inovação**  
+📈 Objetivo: evoluir para **Ciência da Computação e Engenharia da Computação**  
+🌍 Futuro desenvolvedor focado em criar sistemas **tecnológicos e inovadores**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+- **Linguagens:** Python, Java, JavaScript  
+- **Front-end:** HTML, CSS, React  
+- **Back-end:** Node.js, Express  
+- **Banco de Dados:** MySQL, MongoDB  
+- **Outros:** Git & GitHub, Linux, Docker  
+
+---
+
+## 📌 Projetos em Destaque
+- [ZoneTech](#) → Manutenção remota de PCs (otimização e formatação 100% online)  
+- [ZonePlay](#) → Portal de notícias gamer em desenvolvimento  
+- [Exemplo Projeto Acadêmico](#) → Trabalho da faculdade em ADS  
+
+---
+
+## 📫 Como me encontrar
+- LinkedIn: [linkedin.com/in/felipehenrique](#)  
+- E-mail: felipehenrique@email.com  
+
+---
+⭐ *Sempre em busca de aprender mais e compartilhar conhecimento!*
