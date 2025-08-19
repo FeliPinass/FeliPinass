@@ -23,8 +23,8 @@
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: [[linkedin.com/in/felipehenrique](https://www.linkedin.com/in/felipe-henrique-a4b536357)](#)  
-- E-mail: felipehenrique@email.com  
+- LinkedIn: [(https://www.linkedin.com/in/felipe-henrique-a4b536357)](#)  
+- E-mail: feliphenriquezone@email.com  
 
 ---
 ⭐ *Sempre em busca de aprender mais e compartilhar conhecimento!*
