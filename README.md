@@ -17,8 +17,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [ZoneTech](#) → Manutenção remota de PCs (otimização e formatação 100% online)   
-- [Exemplo Projeto Acadêmico](#) → Trabalho da faculdade em ADS  
+- [ZoneTech]([(https://github.com/FeliPinass/Zonetech)]) → Manutenção remota de PCs (otimização e formatação 100% online)   
 
 ---
 
