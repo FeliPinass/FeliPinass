@@ -17,7 +17,7 @@
 ---
 
 ## 📌 Projetos em Destaque
-- [ZoneTech]([(https://github.com/FeliPinass/Zonetech)]) → Manutenção remota de PCs (otimização e formatação 100% online)   
+- [ZoneTech]([(https://github.com/FeliPinass/Zonetech#)]) → Manutenção remota de PCs (otimização e formatação 100% online)   
 
 ---
 
