@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Como me encontrar
-- LinkedIn: (https://www.linkedin.com/in/felipehenriquesilvaa)  
+- LinkedIn: https://www.linkedin.com/in/felipehenriquesilvaa 
 - E-mail: feliphenriquezone@email.com  
 
 ---
